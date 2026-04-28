@@ -20,3 +20,6 @@ git commit -m "full mern project added"
 git remote add origin repo link
 git branch -M main
 git push -u origin main
+
+npm run dev
+npm install nodemon
